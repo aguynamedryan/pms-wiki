@@ -29,7 +29,7 @@ A container is an application in a box. A few years ago, the Linux kernel added 
 
 What this means for users is that dependency and resource clashes are a thing of the past. Need two slightly different versions of Java for two applications? No problem!
 
-More than this, containers are more secure. They employ the principal of minimum viable permissions and unless you permit access into them, you are guaranteed by virtue of the kernel technology underneath that noone else can either. 
+More than this, containers are more secure. They employ the principal of minimum viable permissions and unless you permit access into them, you are guaranteed by virtue of the kernel technology underneath that no one else can either. 
 
 ### My first container
 
